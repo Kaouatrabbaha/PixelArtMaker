@@ -1,0 +1,67 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,800,700,300);
+@import url(https://fonts.googleapis.com/css?family=Squada+One);
+body {
+  padding: 20px 80px;
+  background: #3c3c3c
+  url(https://subtlepatterns.com/patterns/extra_clean_paper.png);
+    text-align: center;
+    background-color: White;
+}
+
+h1 {
+    font-family: Montserrat;
+    font-size: 70px;
+    margin: 0.2em;
+    color: #4CAF50;
+    text-shadow: #3f5444 3px 2px 0;
+    
+}
+
+h2 {
+    margin: 1em 0 0.25em;
+}
+
+h2:first-of-type {
+    margin-top: 0.5em;
+}
+
+table,
+tr,
+td {
+    border: 1px solid black;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+tr {
+    height: 20px;
+}
+
+td {
+    width: 20px;
+}
+
+input[type=number] {
+    width: 6em;
+}
+p{
+  margin: 10px;
+  font-weight: bold;
+  font-size: 20px;
+  color: #708090;
+  text-align: center
+    
+}
+input[type=button], input[type=submit], input[type=reset] {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 4px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 25px;
+}
