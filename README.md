@@ -1,2 +1,0 @@
-# PixelArtMaker
-Udacity final project
